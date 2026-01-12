@@ -2,6 +2,12 @@
 
 Ссылка на проект - https://t.me/Sofia_pr_bot
 
+![Иллюстрация к проекту](https://github.com/Ninaelly/ai_assistant/blob/main/131CA~1.JPG?raw=true) 
+
+![Иллюстрация к проекту](https://github.com/Ninaelly/ai_assistant/blob/main/21652~1.JPG?raw=true)
+
+![Иллюстрация к проекту](https://github.com/Ninaelly/ai_assistant/blob/main/1B186~1.JPG?raw=true)
+
 ## Описание
 Проект представляет собой интеллектуального ассистента, созданного специально для поддержки экспертов в области SMM, контента и маркетинга. Ассистент способен эффективно взаимодействовать с клиентами, предоставляя информационную и организационную поддержку.
 
